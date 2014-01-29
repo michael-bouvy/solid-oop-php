@@ -1,5 +1,8 @@
-SOLID OOP Principles explained with real world PHP examples
+SOLID OOP Principles
 =============
+
+Explained with real world PHP examples.
+
 
 ## S - Single Responsibility Principle
 
